@@ -1,0 +1,11 @@
+{
+  "askToolkitResourcesVersion": "2020-04-15",
+  "profiles": {
+    "default": {
+      "skillId": "amzn1.ask.skill.eb59b812-1b62-46e8-8c35-b97ec13119f8",
+      "skillInfrastructure": {
+        "type": "@ask-cli/hosted-skill-deployer"
+      }
+    }
+  }
+}
